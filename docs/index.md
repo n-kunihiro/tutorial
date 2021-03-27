@@ -1,7 +1,7 @@
 # 日本語で書かれた暗号理論に関する解説
 
-* 2021年3月24日：一通り完成
-* 2021年3月14日：新規オープン
+* 研究室配属学生向けの解説です．
+* サイバーセキュリティなどは含めていませんが，量子計算など，暗号の安全性評価に関係する解説は含めています．
 
 ## [Fundamentals Review](https://www.ieice.org/ess/ESS/Fundam-Review.html)（電子情報通信学会）
 * 須崎 有康，"Trusted Execution Environmentの実装とそれを支える技術，" Vol. 14, no. 2, 2020. [[DOI]](https://doi.org/10.1587/essfr.14.2_107)
